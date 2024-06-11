@@ -7,5 +7,11 @@ The current version is for personal use.
 <br /><br />
 
     
-![alt-text](https://github.com/ZHANGneuro/spatial-memory-task/blob/master/video_example.gif)
+![alt-text](https://github.com/ZHANGneuro/3D_relational_memory_task/blob/main/demo_instruction.png)
 
+<br /><br />
+
+![alt-text](https://github.com/ZHANGneuro/3D_relational_memory_task/blob/main/demo_trial.gif)
+
+
+<br /><br />
