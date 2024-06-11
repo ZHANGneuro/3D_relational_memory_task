@@ -3,7 +3,7 @@
 This is an unity-based app for Memory research
 <br /><br />
 
-The current version is for personal use.
+The current version is temporary for personal use.
 <br /><br />
 
     
