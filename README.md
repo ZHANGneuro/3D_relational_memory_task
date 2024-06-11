@@ -11,7 +11,7 @@ The current version is for personal use.
 
 <br /><br />
 
-![alt-text](https://github.com/ZHANGneuro/3D_relational_memory_task/blob/main/demo_trial.gif)
+![alt-text](https://github.com/ZHANGneuro/3D_relational_memory_task/blob/main/demo_stim_position.png)
 
 
 <br /><br />
